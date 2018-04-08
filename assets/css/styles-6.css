@@ -55,7 +55,7 @@ p {
   background: #4B6A78;
   position: absolute;
   right: 0;
-  width: 280px;
+  width: 300px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -77,7 +77,8 @@ p {
 }
 .sidebar-wrapper .tagline {
   color: rgba(255, 255, 255, 0.6);
-  font-size: 14px;
+  font-size: 13px;
+    line-height: 20px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
@@ -155,7 +156,7 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-right: 340px;
+  padding-right: 360px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
