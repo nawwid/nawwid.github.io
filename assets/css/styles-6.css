@@ -277,7 +277,7 @@ p {
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .skillset .level-title {
     display: inline-block;
     float: left;
