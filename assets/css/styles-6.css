@@ -189,7 +189,7 @@ p {
   top: -2px;
 }
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -229,7 +229,7 @@ p {
   margin-bottom: 15px;
 }
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
   overflow: hidden;
 }
 .skillset .level-title {
